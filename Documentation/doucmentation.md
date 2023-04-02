@@ -33,3 +33,5 @@ Setting up threeJS:
     - Basically decides what objects on the scene is showed on the renderer
 
 5. Renderer: Takes what the camera and scene and draws whatever the camera can see
+
+* Refer to the threeJS starter Image 
