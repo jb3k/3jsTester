@@ -38,13 +38,26 @@ Setting up threeJS:
 ![image](./threeJS%20starter.png)
 
 
-Adding Things:
+<!-- Adding Things: -->
 
-    Cube:
-    1. add the geometry
-    2. add material
-    3. create the cub with the positions
-    4. add the cube to the scene
-    5. create the light
-    6. add the light
+Cube:
+1. add the geometry
+2. add material
+3. create the cub with the positions
+4. add the cube to the scene
+5. create the light
+6. add the light
 ![image](./cube.png)
+
+
+Loading 3D Models:
+1. Add .MTL files & .OBJ files to public folder inside project
+    - you can find these kinds of files online / on websites
+2. import from three file path
+    - EX: 
+    import { OBJLoader} from 'three/examples/jsm/loaders/OBJLoader'
+    import { MTLLoader} from 'three/examples/jsm/loaders/MTLLoader'
+
+
+
+What is the difference between mtl and obj????
