@@ -35,3 +35,16 @@ Setting up threeJS:
 5. Renderer: Takes what the camera and scene and draws whatever the camera can see
 
 * Refer to the threeJS starter Image 
+![image](./threeJS%20starter.png)
+
+
+Adding Things:
+
+    Cube:
+    1. add the geometry
+    2. add material
+    3. create the cub with the positions
+    4. add the cube to the scene
+    5. create the light
+    6. add the light
+![image](./cube.png)
